@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "pic__url": "https://images.indianexpress.com/2018/03/jacqueline-fernandez-bollywood-759.jpg",
+        "question": "Is she a Jacqueline Fernandez?",
+        "answer":true
+    },
+    {
+        "id": 2,
+        "pic__url": "https://cdn1.ninecolours.com/image/cache/img/Bollywood-Shraddha-Kapoor-Soft-Net-Party-Wear-Anarkali-Suit-In-Pink-and-White-Colour-US1500092-A-1200x1799.jpg",
+        "question": "Is she a Sonam Kappor?",
+        "answer":false
+    },
+    {
+        "id": 3,
+        "pic__url": "https://i.pinimg.com/originals/96/6d/56/966d56d7067236370b08af2689107b49.jpg",
+        "question": "Is she a Sunny Leone?",
+        "answer":true
+    },
+    {
+        "id": 4,
+        "pic__url": "https://d101ghsnt3o063.cloudfront.net/productimages/2348606102017-Disha-Patani-Beige-Cotton-Saree-With-Blouse.jpg",
+        "question": "Is she a Disha Patani?",
+        "answer":true
+    },
+    {
+        "id": 5,
+        "pic__url": "https://1.bp.blogspot.com/-COw5Z5JI-lM/XKRXV5hJ57I/AAAAAAABAqk/XtjKActw37UWVxXXfwhbu5AAHDtkIsH9ACLcBGAs/s1600/Sara-Ali-Khan-vogue-7.JPG",
+        "question": "Is she a Shraddha Kapoor?",
+        "answer":false
+    },
+    {
+        "id": 6,
+        "pic__url": "https://i.pinimg.com/originals/90/c0/b2/90c0b27c97cc600eb6a8311e81563a66.jpg",
+        "question": "Is she a Deepika Padukone?",
+        "answer":true
+    },
+    {
+        "id": 7,
+        "pic__url": "https://i.pinimg.com/originals/e4/2e/99/e42e990cd5b731f3112c5c3ede9de704.jpg",
+        "question": "no more question."
+    }
+]
